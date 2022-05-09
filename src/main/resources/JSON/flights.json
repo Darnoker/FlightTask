@@ -1,0 +1,45 @@
+[
+  {
+    "flightId": 1,
+    "flightNumber": 8491,
+    "departureAirportIATACode": "YYT",
+    "arrivalAirportIATACode": "PPX",
+    "departureDate": "2021-02-16T02:46:35-01:00"
+  },
+  {
+    "flightId": 2,
+    "flightNumber": 9035,
+    "departureAirportIATACode": "YYT",
+    "arrivalAirportIATACode": "LEW",
+    "departureDate": "2016-07-30T05:56:13-02:00"
+  },
+  {
+    "flightId": 3,
+    "flightNumber": 4082,
+    "departureAirportIATACode": "ANC",
+    "arrivalAirportIATACode": "MIT",
+    "departureDate": "2014-04-01T04:44:29-02:00"
+  },
+  {
+    "flightId": 4,
+    "flightNumber": 7860,
+    "departureAirportIATACode": "SEA",
+    "arrivalAirportIATACode": "MIT",
+    "departureDate": "2019-03-19T11:03:51-01:00"
+  },
+  {
+    "flightId": 5,
+    "flightNumber": 8238,
+    "departureAirportIATACode": "LAX",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2018-01-09T03:45:04-01:00"
+  },
+
+  {
+    "flightId": 6,
+    "flightNumber": 6666,
+    "departureAirportIATACode": "MIT",
+    "arrivalAirportIATACode": "ANC",
+    "departureDate": "2014-04-01T07:44:29-02:00"
+  }
+]
