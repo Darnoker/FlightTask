@@ -33,13 +33,5 @@
     "departureAirportIATACode": "LAX",
     "arrivalAirportIATACode": "GDN",
     "departureDate": "2018-01-09T03:45:04-01:00"
-  },
-
-  {
-    "flightId": 6,
-    "flightNumber": 6666,
-    "departureAirportIATACode": "MIT",
-    "arrivalAirportIATACode": "ANC",
-    "departureDate": "2014-04-01T07:44:29-02:00"
   }
 ]
